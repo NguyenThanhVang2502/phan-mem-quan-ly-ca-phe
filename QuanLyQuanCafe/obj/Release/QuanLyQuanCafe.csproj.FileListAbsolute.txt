@@ -1,0 +1,14 @@
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe.config
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.exe
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\bin\Release\QuanLyQuanCafe.pdb
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fAdmin.resources
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fLogin.resources
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.fTableManager.resources
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.exe
+C:\Users\VANG\OneDrive\Máy tính\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\obj\Release\QuanLyQuanCafe.pdb
